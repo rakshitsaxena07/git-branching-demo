@@ -1,1 +1,2 @@
 Version 1 - Library App
+Version 1.0.1 - Critical bug fixed
